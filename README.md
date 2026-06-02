@@ -150,5 +150,14 @@ Passionate about creating responsive, user-friendly, and visually appealing web 
 * Data Structures & Algorithms
 
 ---
+---
+
+## 📬 Connect With Me
+
+Thank you for checking out this project! Whether you have feedback, feature suggestions, or want to discuss potential collaborations, feel free to reach out.
+
+* **Email:** [mritunjaychaubey1709@gmail.com](mailto:mritunjaychaubey1709@gmail.com)
+* **LinkedIn:** [Mritunjay Chaubey](https://www.linkedin.com/in/mritunjay-chaubey-frontenddev-5b65a8225/)
+* **GitHub:** [@Mritunjay-Chaubey](https://github.com/Mritunjay-Chaubey)
 
 ⭐ If you found this project interesting, consider giving it a star.
